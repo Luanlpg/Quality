@@ -1,10 +1,10 @@
 # Quality
 
-##Recebe notas disponivei e valor a ser trocado, retorna nota e quatidade necessaria
+## Recebe notas disponivei e valor a ser trocado, retorna nota e quatidade necessaria
 
 
 
-##Instalação de requisitos (NECESSÁRIO:Python 3.6.0+ e pip(Atualizado))
+## Instalação de requisitos (NECESSÁRIO:Python 3.6.0+ e pip(Atualizado))
 
 
  - Crie um ambiente virtual de sua preferência (Recomendado/Opcional)
@@ -16,7 +16,7 @@
  - Faça a instalação do `requirements.txt` usando o comando: `pip install -r requirements.txt`
 
 
-##Rodando os testes do sistema
+## Rodando os testes do sistema
 
 - na pasta rais do repositório rode:
 
@@ -25,7 +25,7 @@
  - Rode o comando: `pytest -v`
 
 
-##Rodando menu interativo
+## Rodando menu interativo
 
 
 - na pasta rais do repositório rode:
