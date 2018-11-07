@@ -1,6 +1,6 @@
 # Quality
 
-## Recebe notas disponivei e valor a ser trocado, retorna nota e quatidade necessaria
+## Recebe notas disponiveis e valor a ser trocado, retorna nota e quatidade necessaria
 
 
 
